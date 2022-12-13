@@ -1,6 +1,6 @@
 {
-    "title": "Resume",
-    "name": "startbootstrap-resume",
+    "title": "Portada",
+    "name": "Mi presentación-resume",
     "version": "7.0.5",
     "scripts": {
         "build": "npm run clean && npm run build:pug && npm run build:scss && npm run build:scripts && npm run build:assets",
